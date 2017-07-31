@@ -1,0 +1,60 @@
+body{
+    padding-top: 60px;
+}
+
+.starter-template{
+    padding: 40px 15px;
+    text-align: center;
+}
+
+/* MARKETING CONTENT
+-------------------------------------------------- */
+
+/* Center align the text within the three columns below the carousel */
+.marketing .col-lg-4 {
+    margin-bottom: 1.5rem;
+    text-align: center;
+}
+.marketing h2 {
+    font-weight: normal;
+}
+.marketing .col-lg-4 p {
+    margin-right: .75rem;
+    margin-left: .75rem;
+}
+.member-title{
+    color: #f0f8ff;
+}
+
+
+/* Featurettes
+------------------------- */
+
+.featurette-divider {
+    margin: 5rem 0; /* Space out the Bootstrap <hr> more */
+}
+
+.featurette{
+    padding-top: 120px;
+    overflow: hidden;
+}
+
+.featurette-image{
+    margin-top: -120px;
+}
+
+.featurette-image.pull-left{
+    margin-right: 40px;
+}
+
+.featurette-image.pull-right{
+    margin-left: 40px;
+}
+
+/* Thin out the marketing headings */
+.featurette-heading {
+    font-size: 50px;
+    font-weight: 300;
+    line-height: 1;
+    letter-spacing: -.05rem;
+}
